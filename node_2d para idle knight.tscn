@@ -176,7 +176,10 @@ layout_mode = 3
 anchors_preset = 0
 offset_right = 40.0
 offset_bottom = 40.0
+<<<<<<< HEAD
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 
 [node name="CanvasLayer" type="CanvasLayer" parent="AnimationPlayer"]
+=======
+>>>>>>> parent of ab2ddbf (r4)
