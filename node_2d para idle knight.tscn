@@ -176,7 +176,3 @@ layout_mode = 3
 anchors_preset = 0
 offset_right = 40.0
 offset_bottom = 40.0
-
-[node name="Node3D" type="Node3D" parent="."]
-
-[node name="Node2D" type="Node2D" parent="Node3D"]
