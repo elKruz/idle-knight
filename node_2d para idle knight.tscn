@@ -178,3 +178,5 @@ offset_right = 40.0
 offset_bottom = 40.0
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="AnimationPlayer"]
